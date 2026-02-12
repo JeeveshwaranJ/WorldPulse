@@ -1,0 +1,10 @@
+
+{
+  "name": "WorldPlus - Global Intelligence Platform",
+  "description": "Enterprise-grade AI news platform powered by Gemini and NeuralSpeak Labs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
